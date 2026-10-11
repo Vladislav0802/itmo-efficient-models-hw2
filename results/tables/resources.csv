@@ -1,0 +1,3 @@
+stage,status,start_step,final_step,additional_steps,skipped_updates,successful_updates,tokens_seen_global,mean_seconds_per_step,peak_allocated_gb,learning_rate,successful_updates_total,skipped_updates_total
+stage1,OK,0,8712,8712,12,8700,142737408,3.4121141554472216,9.248250961303711,3e-05,,
+stage2,OK,8712,18689,9977,12,9965,306200576,3.007176545002926,9.248250961303711,3e-05,18665.0,24.0

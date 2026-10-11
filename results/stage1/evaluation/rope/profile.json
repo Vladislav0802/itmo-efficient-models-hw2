@@ -1,0 +1,1410 @@
+[
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "ce": 2.3665506839752197,
+    "tail512_ce": 2.1237680912017822,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.448347568511963
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.3875315189361572
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.508328914642334
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.1215155124664307
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "ce": 2.662344455718994,
+    "tail512_ce": 2.7535557746887207,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.0282845497131348
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.331760883331299
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5399930477142334
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.749509811401367
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "ce": 2.4843032360076904,
+    "tail512_ce": 1.89104163646698,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.6297738552093506
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.948759078979492
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.464588165283203
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 1.8929368257522583
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "ce": 2.520636558532715,
+    "tail512_ce": 2.6491525173187256,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.2137951850891113
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.6526708602905273
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.562138557434082
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.654202461242676
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "ce": 2.3598473072052,
+    "tail512_ce": 2.2643680572509766,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.5051889419555664
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.2146754264831543
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.45162296295166
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.2677223682403564
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "ce": 3.1948342323303223,
+    "tail512_ce": 2.9403553009033203,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.360978126525879
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 3.3230812549591064
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 3.1591827869415283
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.9355881214141846
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "ce": 2.546527147293091,
+    "tail512_ce": 2.374392509460449,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.77567195892334
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.462920904159546
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.573969602584839
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.3732082843780518
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "ce": 2.159064769744873,
+    "tail512_ce": 2.171682357788086,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.482245922088623
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 1.7793514728546143
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.1988484859466553
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2047,
+        "ce": 2.1758463382720947
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "ce": 4.23744535446167,
+    "tail512_ce": 7.622290134429932,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.448033332824707
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.3874521255493164
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.508024215698242
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.1236228942871094
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.6489148139953613
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.942460060119629
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.219369888305664
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.628304481506348
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "ce": 4.204567909240723,
+    "tail512_ce": 6.811187744140625,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.0286831855773926
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.331103801727295
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.539963722229004
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.754737377166748
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.8922088146209717
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.498991012573242
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 6.777204990386963
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 6.818754196166992
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "ce": 4.15246057510376,
+    "tail512_ce": 7.1418256759643555,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.6300740242004395
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.949000120162964
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.4642109870910645
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 1.8891862630844116
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.0793025493621826
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.956921577453613
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.118558406829834
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.138261795043945
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "ce": 4.405738353729248,
+    "tail512_ce": 7.187615394592285,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.213541030883789
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.652308940887451
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5622215270996094
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.652594566345215
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 4.23848295211792
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.701061248779297
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.038362503051758
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.192777633666992
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "ce": 4.259344577789307,
+    "tail512_ce": 7.465157508850098,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.505185127258301
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.214527130126953
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.4520153999328613
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.2630743980407715
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.412358522415161
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.481276988983154
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.2967529296875
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.455810546875
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "ce": 4.873347759246826,
+    "tail512_ce": 7.666207313537598,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.3611555099487305
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 3.322676658630371
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 3.159057855606079
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.9311962127685547
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 4.260429382324219
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.98895263671875
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.308239459991455
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.660516262054443
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "ce": 4.372171401977539,
+    "tail512_ce": 7.258167266845703,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.7759809494018555
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.4632322788238525
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5738096237182617
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.3718838691711426
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.6514902114868164
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.732113838195801
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.1543869972229
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.2601094245910645
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "ce": 4.236153602600098,
+    "tail512_ce": 7.240775108337402,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.4824042320251465
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 1.778726577758789
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.1987006664276123
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.172909736633301
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.5702404975891113
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.593326568603516
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.845727920532227
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4095,
+        "ce": 7.253082752227783
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "ce": 5.555415153503418,
+    "tail512_ce": 7.213466644287109,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.448227882385254
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.3875017166137695
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5076684951782227
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.123680830001831
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.649064779281616
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.9424920082092285
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.219521522521973
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.635688781738281
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 6.6474456787109375
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 6.074041843414307
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 7.365270137786865
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 7.312090873718262
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.511395454406738
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.89932918548584
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 6.960394859313965
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 7.206050872802734
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "ce": 5.7925543785095215,
+    "tail512_ce": 7.634632110595703,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.0285940170288086
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.3310441970825195
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5403428077697754
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.755079507827759
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.892367362976074
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.498985767364502
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 6.777421951293945
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 6.809213638305664
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 7.31561279296875
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 7.539081573486328
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 7.151149749755859
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 7.199939727783203
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.625591278076172
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 7.459043025970459
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 8.133623123168945
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 7.627363681793213
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "ce": 5.4266676902771,
+    "tail512_ce": 6.807778358459473,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.629714012145996
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.948657512664795
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.464134931564331
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 1.8889790773391724
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.0788137912750244
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 5.956851005554199
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.1183366775512695
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.126985549926758
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 7.361789703369141
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 7.266582489013672
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 7.047027111053467
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.955850124359131
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 5.983987808227539
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.013900279998779
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 6.186275482177734
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 6.801484107971191
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "ce": 5.617298126220703,
+    "tail512_ce": 6.344015598297119,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.213589668273926
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.652646541595459
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.562183380126953
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.652406930923462
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 4.238381385803223
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.7007012367248535
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.038408279418945
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.182826995849609
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 6.528507709503174
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 7.037980079650879
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 7.270838737487793
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.932077884674072
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 7.014133453369141
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.810849666595459
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 6.695895671844482
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 6.346770286560059
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "ce": 5.617882251739502,
+    "tail512_ce": 6.908530235290527,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.505354642868042
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.2139387130737305
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.452432632446289
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.262939691543579
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.4123010635375977
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.481778621673584
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.296417713165283
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.4567975997924805
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 7.597365379333496
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 7.426380634307861
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 6.952223300933838
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.71848201751709
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.636492729187012
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.680351257324219
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 6.879220008850098
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 6.916177272796631
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "ce": 5.904040813446045,
+    "tail512_ce": 6.771984577178955,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 3.3612446784973145
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 3.3224849700927734
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 3.1593077182769775
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.930718421936035
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 4.261063575744629
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.988245964050293
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.30787467956543
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.67099666595459
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 7.775498390197754
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 7.187134265899658
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 6.693565368652344
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.641493797302246
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.6469502449035645
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.977945327758789
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 6.7640886306762695
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 6.777745246887207
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "ce": 5.7896318435668945,
+    "tail512_ce": 6.961864471435547,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.7759432792663574
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 2.463371753692627
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.5739829540252686
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.3719747066497803
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.652951717376709
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.731415748596191
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.154023170471191
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.250992774963379
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 6.913886547088623
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 8.076455116271973
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 8.445117950439453
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.594074726104736
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.250537872314453
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 6.98369026184082
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 7.432547569274902
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 6.965436935424805
+      }
+    ]
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "ce": 5.568930625915527,
+    "tail512_ce": 7.111522674560547,
+    "status": "OK",
+    "segments": [
+      {
+        "target_start": 1,
+        "target_end": 512,
+        "ce": 2.4825844764709473
+      },
+      {
+        "target_start": 513,
+        "target_end": 1024,
+        "ce": 1.7786273956298828
+      },
+      {
+        "target_start": 1025,
+        "target_end": 1536,
+        "ce": 2.198836326599121
+      },
+      {
+        "target_start": 1537,
+        "target_end": 2048,
+        "ce": 2.172640323638916
+      },
+      {
+        "target_start": 2049,
+        "target_end": 2560,
+        "ce": 3.570284366607666
+      },
+      {
+        "target_start": 2561,
+        "target_end": 3072,
+        "ce": 6.592040061950684
+      },
+      {
+        "target_start": 3073,
+        "target_end": 3584,
+        "ce": 7.845707893371582
+      },
+      {
+        "target_start": 3585,
+        "target_end": 4096,
+        "ce": 7.2622175216674805
+      },
+      {
+        "target_start": 4097,
+        "target_end": 4608,
+        "ce": 6.981903553009033
+      },
+      {
+        "target_start": 4609,
+        "target_end": 5120,
+        "ce": 6.712571144104004
+      },
+      {
+        "target_start": 5121,
+        "target_end": 5632,
+        "ce": 6.384786128997803
+      },
+      {
+        "target_start": 5633,
+        "target_end": 6144,
+        "ce": 6.938427925109863
+      },
+      {
+        "target_start": 6145,
+        "target_end": 6656,
+        "ce": 6.549026012420654
+      },
+      {
+        "target_start": 6657,
+        "target_end": 7168,
+        "ce": 7.132211685180664
+      },
+      {
+        "target_start": 7169,
+        "target_end": 7680,
+        "ce": 7.389482498168945
+      },
+      {
+        "target_start": 7681,
+        "target_end": 8191,
+        "ce": 7.114558696746826
+      }
+    ]
+  }
+]

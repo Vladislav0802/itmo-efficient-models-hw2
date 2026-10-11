@@ -1,0 +1,12 @@
+{
+  "status": "OK",
+  "start_step": 0,
+  "final_step": 8712,
+  "additional_steps": 8712,
+  "skipped_updates": 12,
+  "successful_updates": 8700,
+  "tokens_seen_global": 142737408,
+  "mean_seconds_per_step": 3.4121141554472216,
+  "peak_allocated_gb": 9.248250961303711,
+  "learning_rate": 3e-05
+}

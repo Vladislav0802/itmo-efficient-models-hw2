@@ -1,0 +1,9 @@
+model,kind,length,depth,correct,n,accuracy,provenance
+rope,short_control,512,0.9,10,12,0.8333333333333334,recovered_from_console
+rope,main,2048,0.1,3,8,0.375,recovered_from_console
+rope,main,2048,0.5,4,8,0.5,recovered_from_console
+rope,main,2048,0.9,8,8,1.0,recovered_from_console
+drope,short_control,512,0.9,0,12,0.0,recovered_from_console
+drope,main,2048,0.1,0,8,0.0,recovered_from_console
+drope,main,2048,0.5,0,8,0.0,recovered_from_console
+drope,main,2048,0.9,0,8,0.0,recovered_from_console

@@ -1,0 +1,9 @@
+{
+  "model": "DroPE_step8712",
+  "step": 8712,
+  "attention_type": "qk_norm_nope",
+  "training": false,
+  "head_dim": 64,
+  "q_norm_present": true,
+  "norm_eps": 1e-05
+}

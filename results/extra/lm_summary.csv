@@ -1,0 +1,8 @@
+model,method,length,factor,ce,ppl,tail512_ce,blocks,complete,provenance
+RoPE_base,default,2048,1.0,2.536763548851013,12.638700170910566,2.396,8,True,recovered_from_console
+RoPE_base,default,4096,1.0,4.342653691768646,76.9113678334159,7.2992,8,True,recovered_from_console
+RoPE_base,default,8192,1.0,5.659052610397339,286.8767297417029,6.9692,8,True,recovered_from_console
+RoPE_base,yarn,4096,2.0,2.491550326347351,12.079989536799973,2.4823,8,True,recovered_from_console
+RoPE_base,yarn,8192,4.0,2.493982434272766,12.109405131542106,2.5517,8,True,recovered_from_console
+RoPE_base,dynamic,4096,2.0,2.5223725736141205,12.45811943270472,2.5076,8,True,recovered_from_console
+RoPE_base,dynamic,8192,4.0,2.9578903019428253,19.257301777753867,3.0917,8,True,recovered_from_console

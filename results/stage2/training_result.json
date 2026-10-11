@@ -1,0 +1,14 @@
+{
+  "status": "OK",
+  "start_step": 8712,
+  "final_step": 18689,
+  "additional_steps": 9977,
+  "skipped_updates": 12,
+  "successful_updates": 9965,
+  "successful_updates_total": 18665,
+  "skipped_updates_total": 24,
+  "tokens_seen_global": 306200576,
+  "mean_seconds_per_step": 3.007176545002926,
+  "peak_allocated_gb": 9.248250961303711,
+  "learning_rate": 3e-05
+}

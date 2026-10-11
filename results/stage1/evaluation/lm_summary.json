@@ -1,0 +1,102 @@
+[
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 2.536763548851013,
+    "ppl": 12.638700170910566,
+    "tail512_ce": 2.39603953063488
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 4.342653691768646,
+    "ppl": 76.9113678334159,
+    "tail512_ce": 7.29915326833725
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 5.659052610397339,
+    "ppl": 286.8767297417029,
+    "tail512_ce": 6.969224333763123
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 3.753206431865692,
+    "ppl": 42.65764177015078,
+    "tail512_ce": 3.7035147547721863
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 5.7327601313591,
+    "ppl": 308.8204781977584,
+    "tail512_ce": 10.767940163612366
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "blocks": 8,
+    "ce": 4.347028374671936,
+    "ppl": 77.24856771284591,
+    "tail512_ce": 6.88210266828537
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "blocks": 8,
+    "ce": 4.039378672838211,
+    "ppl": 56.791046021739604,
+    "tail512_ce": 4.15398308634758
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "blocks": 8,
+    "ce": 9.139103770256042,
+    "ppl": 9312.41532711406,
+    "tail512_ce": 13.025736808776855
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "blocks": 8,
+    "ce": 6.537213683128357,
+    "ppl": 690.3603330747244,
+    "tail512_ce": 12.506905436515808
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "blocks": 8,
+    "ce": 4.452695429325104,
+    "ppl": 85.85805671214501,
+    "tail512_ce": 6.6210105419158936
+  }
+]

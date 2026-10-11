@@ -1,0 +1,17 @@
+{
+  "source_output": "/kaggle/input/notebooks/zvladoz/notebookf1f277f53b/experiments/drope_fresh/20261010_022556",
+  "out_dir": "/kaggle/working/experiments/drope_check/20261010_132719",
+  "step": 8712,
+  "hf_path": "/kaggle/input/notebooks/zvladoz/notebookf1f277f53b/experiments/drope_fresh/20261010_022556/hf/step_08712",
+  "base_path": "/root/.cache/huggingface/hub/models--HuggingFaceTB--SmolLM-360M/snapshots/59f7ef243ee09a72cbc14cb054393a3e3b771d41",
+  "test_path": "/kaggle/input/notebooks/zvladoz/notebookf1f277f53b/experiments/drope_fresh/20261010_022556/cache/test.npy",
+  "dev_path": "/kaggle/input/notebooks/zvladoz/notebookf1f277f53b/experiments/drope_fresh/20261010_022556/cache/dev.npy",
+  "test_sha256": "7bd91986d8dedcc5fd860bb1fad4106877348a14a58660607dc245066ac2b67a",
+  "test_blocks": 8,
+  "niah_samples": 2,
+  "worker_deadline": 1791642139.9486856,
+  "dataset_revision": "14efaa24d7dff8a745bf4918e415878546542346",
+  "repo_commit": "260a8bb9f4fda0673266ddfee7668915aade8b33",
+  "paper": "https://arxiv.org/html/2512.12167v1#A3.SS2",
+  "protocol_note": "NIAH uses FineWeb test haystack, not paper Paul Graham corpus. Small diagnostic sample."
+}

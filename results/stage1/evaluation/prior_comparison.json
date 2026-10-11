@@ -1,0 +1,74 @@
+[
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "new_ce": 2.536763548851013,
+    "previous_ce": 2.536763608455658,
+    "abs_delta": 5.960464477539063e-08,
+    "blocks": 8
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "new_ce": 4.342653691768646,
+    "previous_ce": 4.3426536321640015,
+    "abs_delta": 5.960464477539063e-08,
+    "blocks": 8
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "new_ce": 5.659052610397339,
+    "previous_ce": 5.659052491188049,
+    "abs_delta": 1.1920928955078125e-07,
+    "blocks": 8
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "new_ce": 3.753206431865692,
+    "previous_ce": 3.7532064616680145,
+    "abs_delta": 2.9802322387695312e-08,
+    "blocks": 8
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "new_ce": 5.7327601313591,
+    "previous_ce": 5.732760369777679,
+    "abs_delta": 2.384185791015625e-07,
+    "blocks": 8
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "new_ce": 4.347028374671936,
+    "previous_ce": 4.3470287919044495,
+    "abs_delta": 4.172325134277344e-07,
+    "blocks": 8
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "new_ce": 9.139103770256042,
+    "previous_ce": 9.139103651046753,
+    "abs_delta": 1.1920928955078125e-07,
+    "blocks": 8
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "new_ce": 6.537213683128357,
+    "previous_ce": 6.537213504314423,
+    "abs_delta": 1.7881393432617188e-07,
+    "blocks": 8
+  }
+]

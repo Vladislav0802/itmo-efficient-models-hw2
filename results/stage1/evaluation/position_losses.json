@@ -1,0 +1,8322 @@
+[
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.448347568511963
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.3875315189361572
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.508328914642334
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.1215155124664307
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.0282845497131348
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.331760883331299
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5399930477142334
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.749509811401367
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.6297738552093506
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.948759078979492
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.464588165283203
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 1.8929368257522583
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.2137951850891113
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.6526708602905273
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.562138557434082
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.654202461242676
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.5051889419555664
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.2146754264831543
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.45162296295166
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.2677223682403564
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.360978126525879
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.3230812549591064
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.1591827869415283
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.9355881214141846
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.77567195892334
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.462920904159546
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.573969602584839
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.3732082843780518
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.482245922088623
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 1.7793514728546143
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.1988484859466553
+  },
+  {
+    "model": "RoPE_base",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.1758463382720947
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.448033332824707
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.3874521255493164
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.508024215698242
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.1236228942871094
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.6489148139953613
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.942460060119629
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.219369888305664
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.628304481506348
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.0286831855773926
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.331103801727295
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.539963722229004
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.754737377166748
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.8922088146209717
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.498991012573242
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 6.777204990386963
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 6.818754196166992
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.6300740242004395
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.949000120162964
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.4642109870910645
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 1.8891862630844116
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.0793025493621826
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.956921577453613
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.118558406829834
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.138261795043945
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.213541030883789
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.652308940887451
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5622215270996094
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.652594566345215
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.23848295211792
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.701061248779297
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.038362503051758
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.192777633666992
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.505185127258301
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.214527130126953
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.4520153999328613
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.2630743980407715
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.412358522415161
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.481276988983154
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.2967529296875
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.455810546875
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.3611555099487305
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.322676658630371
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.159057855606079
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.9311962127685547
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.260429382324219
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.98895263671875
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.308239459991455
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.660516262054443
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.7759809494018555
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.4632322788238525
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5738096237182617
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.3718838691711426
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.6514902114868164
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.732113838195801
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.1543869972229
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.2601094245910645
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.4824042320251465
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 1.778726577758789
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.1987006664276123
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.172909736633301
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.5702404975891113
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.593326568603516
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.845727920532227
+  },
+  {
+    "model": "RoPE_base",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.253082752227783
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.448227882385254
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.3875017166137695
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5076684951782227
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.123680830001831
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.649064779281616
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.9424920082092285
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.219521522521973
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.635688781738281
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 6.6474456787109375
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 6.074041843414307
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 7.365270137786865
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 7.312090873718262
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.511395454406738
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.89932918548584
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.960394859313965
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.206050872802734
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.0285940170288086
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.3310441970825195
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5403428077697754
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.755079507827759
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.892367362976074
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.498985767364502
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 6.777421951293945
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 6.809213638305664
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 7.31561279296875
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.539081573486328
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 7.151149749755859
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 7.199939727783203
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.625591278076172
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 7.459043025970459
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 8.133623123168945
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.627363681793213
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.629714012145996
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.948657512664795
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.464134931564331
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 1.8889790773391724
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.0788137912750244
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.956851005554199
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.1183366775512695
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.126985549926758
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 7.361789703369141
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.266582489013672
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 7.047027111053467
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.955850124359131
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 5.983987808227539
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.013900279998779
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.186275482177734
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.801484107971191
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.213589668273926
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.652646541595459
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.562183380126953
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.652406930923462
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.238381385803223
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.7007012367248535
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.038408279418945
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.182826995849609
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 6.528507709503174
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.037980079650879
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 7.270838737487793
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.932077884674072
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 7.014133453369141
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.810849666595459
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.695895671844482
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.346770286560059
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.505354642868042
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.2139387130737305
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.452432632446289
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.262939691543579
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.4123010635375977
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.481778621673584
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.296417713165283
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.4567975997924805
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 7.597365379333496
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.426380634307861
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 6.952223300933838
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.71848201751709
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.636492729187012
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.680351257324219
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.879220008850098
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.916177272796631
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.3612446784973145
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.3224849700927734
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.1593077182769775
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.930718421936035
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.261063575744629
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.988245964050293
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.30787467956543
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.67099666595459
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 7.775498390197754
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.187134265899658
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 6.693565368652344
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.641493797302246
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.6469502449035645
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.977945327758789
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.7640886306762695
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.777745246887207
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.7759432792663574
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.463371753692627
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.5739829540252686
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.3719747066497803
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.652951717376709
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.731415748596191
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.154023170471191
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.250992774963379
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 6.913886547088623
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 8.076455116271973
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 8.445117950439453
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.594074726104736
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.250537872314453
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.98369026184082
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 7.432547569274902
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.965436935424805
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 2.4825844764709473
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 1.7786273956298828
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 2.198836326599121
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.172640323638916
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.570284366607666
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.592040061950684
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.845707893371582
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 7.2622175216674805
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 6.981903553009033
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 6.712571144104004
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 6.384786128997803
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 6.938427925109863
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 6.549026012420654
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 7.132211685180664
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 7.389482498168945
+  },
+  {
+    "model": "RoPE_base",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.114558696746826
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5241141319274902
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.6176414489746094
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.637160301208496
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 3.295161008834839
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.213281154632568
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.5736985206604004
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.679386615753174
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 4.103578567504883
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5689029693603516
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.985708713531494
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.534608840942383
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 2.841717481613159
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.2842612266540527
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.9275403022766113
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7013425827026367
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 3.8514883518218994
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.528583526611328
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.411515712738037
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.662635326385498
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 3.5178308486938477
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.545413970947266
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.543203830718994
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.434328079223633
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 4.227069854736328
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.020055294036865
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.862835168838501
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.083390235900879
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 4.485344886779785
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.049853324890137
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.845402717590332
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.2310705184936523
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 2048,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2047,
+    "ce": 3.313718318939209
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.523468494415283
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.617223024368286
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.6365015506744385
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.2932896614074707
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.228229522705078
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.452968120574951
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 10.442726135253906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 12.519747734069824
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.212646007537842
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.5740158557891846
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.679313898086548
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.103474140167236
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.93032169342041
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.585195064544678
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.327095031738281
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 10.979043006896973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5694756507873535
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.985966682434082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.5353498458862305
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.8366496562957764
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.667743444442749
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.272861480712891
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.671801567077637
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 11.276871681213379
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.28438138961792
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.927812337875366
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.701181173324585
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.846205711364746
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.6647138595581055
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.633930206298828
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.474655151367188
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 9.681766510009766
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5281600952148438
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.4117960929870605
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.6625306606292725
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.511270761489868
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.015989780426025
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.387025356292725
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.505743026733398
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 10.312934875488281
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.5455827713012695
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.5434956550598145
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.43486213684082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.227269172668457
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 5.498836517333984
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 8.131142616271973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.513690948486328
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 11.380448341369629
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.019749641418457
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.8629770278930664
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.08337926864624
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.484691143035889
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.647395610809326
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 7.333414554595947
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.294252395629883
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 11.050727844238281
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.049004554748535
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.8450775146484375
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.230973243713379
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.3091487884521484
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.241765022277832
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.087170124053955
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.731092929840088
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 8.95712661743164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5529370307922363
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.6461377143859863
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.6669020652770996
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.366116523742676
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.595257043838501
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.357238292694092
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 5.38852596282959
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 8.09749698638916
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.231783866882324
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.6122994422912598
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.725442409515381
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.184905529022217
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.158058166503906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.9260377883911133
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 5.1817426681518555
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 6.884665489196777
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5967319011688232
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.0061750411987305
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.5820202827453613
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.877410411834717
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.3432164192199707
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.3447916507720947
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.80351448059082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 6.391887187957764
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.310214042663574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.9743337631225586
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7679433822631836
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.876004934310913
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.124444484710693
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.220937728881836
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 5.285367012023926
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 6.2147088050842285
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5509979724884033
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.476444721221924
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7042970657348633
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.561292886734009
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.5887258052825928
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.093001365661621
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.737333297729492
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 6.499237537384033
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.560883522033691
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.545743942260742
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.44902229309082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.295907974243164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.2561445236206055
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.339167594909668
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 5.709294319152832
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 7.864696025848389
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.041589260101318
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.9190545082092285
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.123711109161377
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.504849910736084
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.5592122077941895
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.921969413757324
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 5.325305938720703
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 8.087502479553223
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.087488651275635
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.8896265029907227
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.318603515625
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.3341403007507324
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.4927101135253906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.923867702484131
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.168393135070801
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "paper",
+    "beta": 1.0713941595976744,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 5.023984432220459
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.666983127593994
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.8592426776885986
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.895185708999634
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.756730556488037
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.8385984897613525
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.546842098236084
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.9947752952575684
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 3.849670648574829
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.328895568847656
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.772446393966675
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.9218764305114746
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.464962959289551
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.304276943206787
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.9383981227874756
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.507977485656738
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.192829132080078
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.70941424369812
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.154871940612793
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.778665542602539
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.052579164505005
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.6770668029785156
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.614135265350342
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.336767196655273
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.681674957275391
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.4644055366516113
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.111537933349609
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.013463020324707
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.160211086273193
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.4044189453125
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.445222854614258
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.836882591247559
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.464679718017578
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.653369188308716
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.691842555999756
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.886453628540039
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.8785061836242676
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.7918944358825684
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.332779407501221
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.361671447753906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.111207962036133
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.6346588134765625
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.646129608154297
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.6007184982299805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.551901817321777
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.3726887702941895
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.208577632904053
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.942906141281128
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.129927158355713
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.130094051361084
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.130982398986816
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.333421230316162
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.770135879516602
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.9144864082336426
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.985574722290039
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.9055943489074707
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 4.270308971405029
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.23512077331543
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.0895490646362305
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.5499391555786133
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.615309715270996
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.7610116004943848
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.077018737792969
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.6790974140167236
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 4096,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4095,
+    "ce": 3.5334510803222656
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5237789154052734
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.617359161376953
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.638000011444092
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.2938685417175293
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.227306842803955
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.450738906860352
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 10.441442489624023
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 12.528172492980957
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 11.680872917175293
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 12.004474639892578
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 13.372588157653809
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 13.283112525939941
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 12.74325942993164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 13.22722053527832
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.501415252685547
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 0,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 12.553359031677246
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.212859153747559
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.5740559101104736
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.6788105964660645
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.103368282318115
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.931699275970459
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.586867809295654
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.329133987426758
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 10.962726593017578
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 11.845678329467773
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 12.395613670349121
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 11.055978775024414
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 11.783773422241211
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 11.776599884033203
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.81672477722168
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.927252769470215
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 1,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.142967224121094
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.568596601486206
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.985407590866089
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.5345516204833984
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.836113929748535
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.667943000793457
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 5.275167465209961
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.674933433532715
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 11.266111373901367
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 12.086511611938477
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 11.873435020446777
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 12.345881462097168
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 12.441679954528809
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 12.108484268188477
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.458662033081055
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.488969802856445
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 2,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.258522033691406
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.284966230392456
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.927720785140991
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7016797065734863
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.845613956451416
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.663175582885742
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.632294654846191
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.47187614440918
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 9.68238639831543
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 9.977609634399414
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 11.405549049377441
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 12.779922485351562
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 12.576522827148438
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 12.034053802490234
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.528193473815918
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.647125244140625
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 3,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 12.325990676879883
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5284128189086914
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.41196608543396
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.6628735065460205
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.5127978324890137
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.015356540679932
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.386266708374023
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 8.505666732788086
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 10.306098937988281
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 11.901901245117188
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 11.923627853393555
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 12.213478088378906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 11.969741821289062
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 12.732215881347656
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.416507720947266
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.491083145141602
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 4,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 12.528571128845215
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.545645713806152
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.544050216674805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.435439109802246
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.227419853210449
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 5.49846887588501
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 8.131246566772461
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.514825820922852
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 11.389974594116211
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 11.86865520477295
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 12.321676254272461
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 12.512526512145996
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 12.780802726745605
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 12.752882957458496
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 13.337772369384766
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.969090461730957
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 5,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.577704429626465
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.020232200622559
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.8632726669311523
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.083174705505371
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.484404563903809
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.647255897521973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 7.33292293548584
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 9.294300079345703
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 11.037854194641113
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 11.718347549438477
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 13.252052307128906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 14.025264739990234
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 13.516152381896973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 13.135562896728516
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 13.51150131225586
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 14.10398006439209
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 6,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.160955429077148
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.049081802368164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.8450469970703125
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.2306113243103027
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.3097686767578125
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.239981651306152
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 6.085477352142334
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 7.728635311126709
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 8.987187385559082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 10.90108585357666
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 12.173763275146484
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 12.258825302124023
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 13.560234069824219
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 13.075839042663574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.728864669799805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 13.376760482788086
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "unscaled",
+    "beta": 1.0,
+    "block": 7,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.646150588989258
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5910534858703613
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.7022008895874023
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.735835075378418
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.5152852535247803
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.670609951019287
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.3322362899780273
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.923224449157715
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 3.9540109634399414
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 5.020219326019287
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 6.224601745605469
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 9.43150520324707
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 11.218863487243652
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 11.172224044799805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.590156555175781
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.452653884887695
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 0,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.258942604064941
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.262697219848633
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.6657018661499023
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7890868186950684
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.292943000793457
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.201801776885986
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.797070026397705
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.326926231384277
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.130497932434082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.656826019287109
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 5.412211894989014
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 5.693270683288574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 7.5308990478515625
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 9.04557991027832
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 10.965822219848633
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.016162872314453
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 1,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 12.658348083496094
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.6326427459716797
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.0572404861450195
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.659303665161133
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 2.9401698112487793
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.464714527130127
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.420596122741699
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.161022663116455
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.536681652069092
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 5.129731178283691
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 5.187849044799805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 6.872610092163086
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 7.99911642074585
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 8.64854907989502
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 10.086759567260742
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 10.826374053955078
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 2,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 11.868242263793945
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.360919952392578
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.028904914855957
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.8507981300354004
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.970839738845825
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.214999198913574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.3116044998168945
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.654710292816162
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.287906646728516
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.138629913330078
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 5.325989723205566
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 7.313509941101074
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 8.544757843017578
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 9.502922058105469
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 10.651861190795898
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 11.306447982788086
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 3,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 11.474570274353027
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.5856826305389404
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.5595345497131348
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7730674743652344
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.668881893157959
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.6711645126342773
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.162438869476318
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.212779998779297
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.027157306671143
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.001391410827637
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 6.025881767272949
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 8.842977523803711
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 9.91668701171875
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 11.863564491271973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.55126953125
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.846147537231445
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 4,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.027029991149902
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.58475923538208
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.569491386413574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.497565746307373
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.415471076965332
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.280300140380859
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.044606685638428
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.781142234802246
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.440497398376465
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 5.770981788635254
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.553640365600586
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 8.817294120788574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 10.44542407989502
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 11.44304084777832
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 12.613747596740723
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 12.692851066589355
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 5,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 13.378951072692871
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.072813510894775
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.9909112453460693
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.194462776184082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.600906848907471
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.715182304382324
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.799293041229248
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.6979939937591553
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.199917793273926
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 5.073999404907227
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 7.203503131866455
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 8.42837142944336
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 9.497465133666992
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 10.25883674621582
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 11.898957252502441
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 13.435678482055664
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 6,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 12.614964485168457
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.140793800354004
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 2.9515724182128906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.4044480323791504
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.4371705055236816
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.5592918395996094
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.899409294128418
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.4983479976654053
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 3.447953224182129
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.119697570800781
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.955104827880859
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 5.809348106384277
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 7.666803359985352
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 7.801701545715332
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 9.097064971923828
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 10.877025604248047
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "paper",
+    "beta": 1.1427883191953487,
+    "block": 7,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 11.771759986877441
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.6680164337158203
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.8603286743164062
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.8943724632263184
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.756223678588867
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.838778495788574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.5468969345092773
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.9949421882629395
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 3.8532166481018066
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.215768337249756
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.4238176345825195
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.57691764831543
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 4.921788692474365
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 4.137369155883789
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 5.318053722381592
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.495021820068359
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 0,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.993712902069092
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.32868766784668
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.772423267364502
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.9218974113464355
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.465358734130859
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.305075645446777
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.938873767852783
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.5069260597229
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.187100887298584
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.299966812133789
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.384078025817871
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 3.677384376525879
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 3.8465840816497803
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 3.927407741546631
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 4.63261604309082
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 5.598287105560303
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 1,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.643406391143799
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.708855152130127
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.154575824737549
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.7783210277557373
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.0524468421936035
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.674889087677002
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.613801956176758
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.337680816650391
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.676708221435547
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.686548233032227
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.068118095397949
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.441014289855957
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 4.364306926727295
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 4.255681991577148
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 5.094393730163574
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 5.8031744956970215
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 2,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.134070873260498
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.46516752243042
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.111311435699463
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.0149054527282715
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.160198211669922
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.404789924621582
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.443946838378906
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.837388038635254
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.458522796630859
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.097919940948486
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 3.9850287437438965
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.595708847045898
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 4.625700950622559
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 4.363961219787598
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 4.144503593444824
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 4.392000198364258
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 3,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 5.588999271392822
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 3.653001308441162
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.6912617683410645
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.8857998847961426
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.879236936569214
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.792335033416748
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.332912445068359
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 4.362196922302246
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.109199523925781
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 3.5781145095825195
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.171184062957764
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.574645042419434
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 3.8352174758911133
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 4.758724212646484
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 5.260337829589844
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 5.932987213134766
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 4,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 6.878237724304199
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.63449764251709
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.645781993865967
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.599491596221924
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.551015377044678
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 4.371625900268555
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.208967208862305
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.9443540573120117
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.126124382019043
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 3.9961609840393066
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.352509498596191
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.821285724639893
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 5.310312271118164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 5.651247978210449
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 6.184372901916504
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 6.664742469787598
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 5,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 7.696109771728516
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.1296234130859375
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 4.1305623054504395
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 4.332867622375488
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 4.770867347717285
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.913827896118164
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 3.9859108924865723
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.905794620513916
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 4.266009330749512
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.254469871520996
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 5.13324499130249
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 5.226346969604492
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 4.383416175842285
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 4.1118268966674805
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 4.96420955657959
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 5.362894058227539
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 6,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 5.625460624694824
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1,
+    "target_end": 512,
+    "ce": 4.235589504241943
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 513,
+    "target_end": 1024,
+    "ce": 3.089569091796875
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1025,
+    "target_end": 1536,
+    "ce": 3.5501503944396973
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 1537,
+    "target_end": 2048,
+    "ce": 3.615464210510254
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 2049,
+    "target_end": 2560,
+    "ce": 3.761584758758545
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 2561,
+    "target_end": 3072,
+    "ce": 4.07789945602417
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 3073,
+    "target_end": 3584,
+    "ce": 3.680192470550537
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 3585,
+    "target_end": 4096,
+    "ce": 3.5490970611572266
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 4097,
+    "target_end": 4608,
+    "ce": 4.0353875160217285
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 4609,
+    "target_end": 5120,
+    "ce": 4.184416770935059
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 5121,
+    "target_end": 5632,
+    "ce": 4.123126029968262
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 5633,
+    "target_end": 6144,
+    "ce": 3.8229594230651855
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 6145,
+    "target_end": 6656,
+    "ce": 3.4637465476989746
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 6657,
+    "target_end": 7168,
+    "ce": 4.212666988372803
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 7169,
+    "target_end": 7680,
+    "ce": 4.746891021728516
+  },
+  {
+    "model": "DroPE_step8712",
+    "length": 8192,
+    "variant": "dev_tuned",
+    "beta": 1.25,
+    "block": 7,
+    "target_start": 7681,
+    "target_end": 8191,
+    "ce": 5.41288423538208
+  }
+]

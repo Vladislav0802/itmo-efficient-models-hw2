@@ -1,0 +1,11 @@
+model,method,length,factor,ce,ppl,tail512_ce,blocks,complete,provenance,variant,beta,stage,label
+RoPE_base,RoPE base,2048,1.0,2.536763548851013,12.638700170910566,2.396,8,True,recovered_from_console,,,,
+RoPE_base,RoPE base,4096,1.0,4.342653691768646,76.9113678334159,7.2992,8,True,recovered_from_console,,,,
+RoPE_base,RoPE base,8192,1.0,5.659052610397339,286.8767297417029,6.9692,8,True,recovered_from_console,,,,
+RoPE_base,YaRN,4096,2.0,2.491550326347351,12.079989536799973,2.4823,8,True,recovered_from_console,,,,
+RoPE_base,YaRN,8192,4.0,2.493982434272766,12.109405131542106,2.5517,8,True,recovered_from_console,,,,
+RoPE_base,Dynamic NTK,4096,2.0,2.5223725736141205,12.45811943270472,2.5076,8,True,recovered_from_console,,,,
+RoPE_base,Dynamic NTK,8192,4.0,2.9578903019428253,19.257301777753867,3.0917,8,True,recovered_from_console,,,,
+DroPE_step18689,DroPE (dev beta),2048,,3.4324717819690704,30.95305747986129,3.3435170650482178,8,,saved_machine_metrics,unscaled,1.0,after,DroPE after
+DroPE_step18689,DroPE (dev beta),4096,,3.7192049622535706,41.23160039555814,3.83576101064682,8,,saved_machine_metrics,dev_tuned,1.25,after,DroPE after
+DroPE_step18689,DroPE (dev beta),8192,,4.394708871841431,81.02103982277168,4.835262775421143,8,,saved_machine_metrics,dev_tuned,1.5,after,DroPE after

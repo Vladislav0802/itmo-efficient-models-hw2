@@ -1,0 +1,12 @@
+{
+  "prefix_mean_abs_logit_delta": 0.016067063435912132,
+  "prefix_max_abs_logit_delta": 0.45703125,
+  "cache_mean_abs_logit_delta": 1.1457562446594238,
+  "sdpa_eager_mean_abs_logit_delta": 0.0161725003272295,
+  "sdpa_eager_max_abs_logit_delta": 0.1875,
+  "sdpa_ce": 3.2115321159362793,
+  "eager_ce": 3.2116050720214844,
+  "ce_delta": 7.295608520507812e-05,
+  "suspect": true,
+  "note": "FP16 numerical diagnostic; threshold flags investigation, not a formal proof."
+}

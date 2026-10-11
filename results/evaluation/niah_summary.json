@@ -1,0 +1,342 @@
+[
+  {
+    "model": "RoPE_base",
+    "kind": "short_control",
+    "length": 512,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 1,
+    "accuracy": 0.5
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "no_needle_control",
+    "length": 512,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 1,
+    "accuracy": 0.5
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 1,
+    "accuracy": 0.5
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 2,
+    "accuracy": 1.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "RoPE_base",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "short_control",
+    "length": 512,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "no_needle_control",
+    "length": 512,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 2048,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.1,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.1,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.5,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.5,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.9,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 4096,
+    "depth": 0.9,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.1,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.1,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.1,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.5,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.5,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.5,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.9,
+    "variant": "unscaled",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.9,
+    "variant": "paper",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  },
+  {
+    "model": "DroPE_step18689",
+    "kind": "main",
+    "length": 8192,
+    "depth": 0.9,
+    "variant": "dev_tuned",
+    "n": 2,
+    "correct": 0,
+    "accuracy": 0.0
+  }
+]

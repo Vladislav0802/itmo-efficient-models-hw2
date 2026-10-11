@@ -1,0 +1,47 @@
+{
+  "initialization": "base",
+  "model_name": "HuggingFaceTB/SmolLM-360M",
+  "model_revision": "59f7ef243ee09a72cbc14cb054393a3e3b771d41",
+  "dataset": "PrimeIntellect/fineweb-edu",
+  "dataset_revision": "14efaa24d7dff8a745bf4918e415878546542346",
+  "repo_commit": "260a8bb9f4fda0673266ddfee7668915aade8b33",
+  "world_size": 2,
+  "seq_len": 2048,
+  "global_batch": 8,
+  "micro_batch": 1,
+  "checkpointing": false,
+  "learning_rate": 3e-05,
+  "start_step": 0,
+  "pilot_step": 0,
+  "warmup_steps": 30,
+  "benchmark_warmup": 5,
+  "dev_blocks": 16,
+  "checkpoint": "/root/.cache/huggingface/hub/models--HuggingFaceTB--SmolLM-360M/snapshots/59f7ef243ee09a72cbc14cb054393a3e3b771d41",
+  "night_dir": "/kaggle/working/experiments/drope_fresh/20261010_022556",
+  "max_absolute_steps": 10000,
+  "checkpoint_every": 250,
+  "eval_every": 1000,
+  "stop_train_at": 1791629746.8474023,
+  "test_blocks": 8,
+  "wall_hours": 9.0,
+  "grad_accum": 4,
+  "precision": "fp16",
+  "zero_stage": 1,
+  "attention_backend": "sdpa",
+  "optimizer": {
+    "name": "AdamW",
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "eps": 1e-08,
+    "weight_decay": 0.0,
+    "gradient_clipping": 1.0
+  },
+  "lr_schedule": "30_step_warmup_then_constant",
+  "portable_paths": {
+    "hf_checkpoint": "hf/step_08712",
+    "full_resume_root": "resume_state"
+  },
+  "final_step": 8712
+}

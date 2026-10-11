@@ -1,0 +1,14 @@
+{
+  "step": 18689,
+  "hf_checkpoint": "/kaggle/working/experiments/drope_continue/20261010_141606/hf/step_18689",
+  "full_resume_root": "/kaggle/working/experiments/drope_continue/20261010_141606/resume_state",
+  "full_resume_tag": "step_18689",
+  "cache_cursor_per_rank": 39908,
+  "initialization": "full_resume",
+  "trial": {
+    "micro_batch": 1,
+    "checkpointing": false,
+    "lr": 3e-05,
+    "kind": "night"
+  }
+}
