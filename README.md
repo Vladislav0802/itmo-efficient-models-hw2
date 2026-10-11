@@ -4,8 +4,8 @@
 
 ## Материалы для проверки
 
-- [Презентация](docs/presentation.pptx), [PDF презентации](docs/presentation.pdf).
-- [Отчёт PDF](docs/report.pdf), [текст отчёта](docs/report.md).
+- [Презентация](docs/presentation_drope.pptx)
+- [Отчёт PDF](docs/report.pdf)
 - [Исполненный аналитический ноутбук](notebooks/01_analysis.ipynb).
 - `src/`: первый этап, продолжение, оценка и CPU-анализ.
 - `results/`: сохранённые метрики; `figures/`: графики; `configs/`: историческая конфигурация и окружение.
